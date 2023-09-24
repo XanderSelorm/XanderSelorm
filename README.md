@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Who I am?
 - A Frontend Engineer based in **[Ghana](https://en.wikipedia.org/wiki/Ghana)** 
-- Have 3+ years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
+- Have 4+ years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
 - Developed products for **healthcare, agri-tech, SMEs,** and **retail** business domains.
 - Have built **hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
