@@ -66,16 +66,16 @@ Here are some ideas to get you started:
   
 #### What's interesting about me (I guess there aren't much)?  
   - 😎 I am an **ambivert**.
-  <!-- - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**. -->
-  - ✍️ I write about **why a certain code is written instead of what** in the comments.
+  <!-- - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**. 
+  - ✍️ I write about **why a certain code is written instead of what** in the comments.-->
   <!-- - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**. -->
   <!-- - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem. -->
 
-<!--Github Stats-->
+<!--Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XanderSelorm" /> 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanderSelorm"/> -->
-</p>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanderSelorm"/> 
+</p>-->
 
 <!-- #### What companies have I worked for?
 <p left="center">
@@ -93,20 +93,20 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 
-<!--
+
 #### How to get in touch with me?
 <p left="center">
-<a href="https://twitter.com/anonymus_7">
+<a href="https://twitter.com/xanderselorm">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/asadullah-rifat">
+<a href="https://www.linkedin.com/in/xanderselorm">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/Anonymus7/">
+<!--<a href="https://www.facebook.com/Anonymus7/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="mailto:asadullah.rifat@selise.ch">
+</a>-->
+<a href="mailto:xanderselorm@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
--->
+
