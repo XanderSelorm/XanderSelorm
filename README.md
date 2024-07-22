@@ -1,26 +1,2 @@
 ### Hi there 👋
 
-<!--
-**XanderSelorm/XanderSelorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Who I am?
-- A Frontend Engineer based in **[Ghana](https://en.wikipedia.org/wiki/Ghana)** 
-- Developed products for **healthcare, agri-tech, SMEs,** and **retail** business domains.
-
-#### What I'm doing?
-<!-- - 👨‍💻 Writing `C#/Blazor` `JavaScript/TypeScript/ReactJS` `HTML` `CSS` `Dart/Flutter`. -->
-<!-- - 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**. -->
-- 👯 Looking to collaborate on **React, Flutter and/or .NET projects**.
-
